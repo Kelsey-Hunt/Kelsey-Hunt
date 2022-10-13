@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Kelsey.  
 
-I'm glad you're here!  [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKelsey-Hunt%2FKelsey-Hunt&label=Visitors&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FKelsey-Hunt%2FKelsey-Hunt)
+I'm glad you're here! [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKelsey-Hunt%2FKelsey-Hunt&label=Visitors&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FKelsey-Hunt%2FKelsey-Hunt)
 
 I am a Full-Stack Web Developer and stained glass artist. I love programming, puzzles, books, and traveling. In my free time, I enjoy getting my hands dirty as a novice homesteader and playing videogames (RPGs are my favorite).
 
