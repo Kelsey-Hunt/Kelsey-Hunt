@@ -2,6 +2,10 @@
 
 I'm glad you're here!    ![visitors](https://visitor-badge.glitch.me/badge?page_id=${Kelsey-Hunt}.${112121300})
 
+I am a Full-Stack Web Developer and stained glass artist. I love programming, puzzles, books, and traveling. In my free time, I enjoy getting my hands dirty as a novice homesteader and playing videogames (RPGs are my favorite).
+
+As a web developer, I love to leverage my eye for aesthetic and problem solving skills to design polished pages and apps with powerful backend functionality.
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kelsey-Hunt&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--
