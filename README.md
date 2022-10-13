@@ -1,7 +1,6 @@
-### Hi there 👋 I'm glad you're here!
+### 👋 Hi there, I'm Kelsey.  
 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${Kelsey-Hunt}.${112121300})
+I'm glad you're here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${Kelsey-Hunt}.${112121300})
 
 <!--
 **Kelsey-Hunt/Kelsey-Hunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
