@@ -9,12 +9,15 @@ I am a Full-Stack Web Developer and stained glass artist. I love programming, pu
 
 As a web developer, I love to leverage my eye for aesthetic and problem solving skills to design polished pages and apps with powerful backend functionality.
 
-💬 Let's chat about...anything really! I have many interests, but here are some of my current favs:
+<h2>💬 Let's chat about...</h2>
+Anything really! I have many interests, but here are some of my current favs:
+
 - 💻 Programming: Creative CSS layout ideas 
 - 📚 Books: The Silent Patient by Alex Michaelides
 - 🏝 Travel Destinations: Mexico (although I just had a good time in Las Vegas!)
 - 📺 TV Shows: House of the Dragon or Rings of Power
 - 🏈 Football: Kansas City Chiefs
+
 
 <h2>👩🏼‍💻 What I'm Up To </h2>
 
@@ -44,21 +47,6 @@ As a web developer, I love to leverage my eye for aesthetic and problem solving 
 
 <h2> 📫 Get In Touch! </h2>
 
-[<img src="https://github.com/Kelsey-Hunt/Kelsey-Hunt/blob/main/email.png" height="40em"align="center" alt="Email Kelsey Hunt"/>](mailto:kels.writes.code@gmail.com)
+[<img src="https://github.com/Kelsey-Hunt/Kelsey-Hunt/blob/main/email.png" height="40em" align="center" alt="Go to Kelsey Hunt's LinkedIn page"/>](mailto:kels.writes.code@gmail.com)
 [<img src="https://github.com/Kelsey-Hunt/Kelsey-Hunt/blob/main/linkedin.png" height="40em" align="center" alt="Go to Kelsey Hunt's LinkedIn page"/>](https://www.linkedin.com/in/kels-writes-code/)
 [<img src="https://github.com/Kelsey-Hunt/Kelsey-Hunt/blob/main/Instagram-Icon.png" height="40em" align="center" alt="Go to Kelsey Hunt's Instagram page"/>](https://www.instagram.com/kelskelter/)
-
-<!--
-**Kelsey-Hunt/Kelsey-Hunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
