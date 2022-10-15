@@ -1,4 +1,14 @@
-### 👋 Hi there, I'm Kelsey.  
+<h1 align="center"> Hey there, I'm Kelsey! 🌼 </h1> 
+
+![Kelsey Hunt](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+<img src="https://drive.google.com/uc?export=view&id=1O8iDJlzR_L8HzNlSyNF-SqZBUsNjCMB7" />
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hello)
+
+
 
 I'm glad you're here!    ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKelsey-Hunt%2FKelsey-Hunt&label=Visitors&countColor=%23263759)
 
