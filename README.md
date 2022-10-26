@@ -21,10 +21,10 @@ Anything really! I have many interests, but here are some of my current favs:
 
 <h2>👩🏼‍💻 What I'm Up To </h2>
 
-- 💪🏻 I'm currently working on... BloomTech Bar & Grill - Restaurant website with additional page for menu items, both of which leverage flexbox and responsive design principles to present an eye-catching page at any screen size.
-- 🌱 I’m learning about... applied JavaScript
+- 💪🏻 I'm currently working on... Newspaper Article Feed - Website for a newspaper which pulls article information from an array and populates an article feed by generating html markup and appending to the DOM
+- 🌱 I’m learning about... React!
 - 🔮 In the near future, I plan to...
-    - Dive into React
+    - Fine-tune my React skills
     - Design my own web app
     - Learn python
     - Land my first job in tech!
